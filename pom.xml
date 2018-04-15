@@ -102,11 +102,6 @@
 			</exclusions>
 		</dependency>
 		<dependency>
-			<groupId>org.directwebremoting</groupId>
-			<artifactId>dwr</artifactId>
-			<version>3.0.2-RELEASE</version>
-		</dependency>
-		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
 			<version>1.2.21</version>
