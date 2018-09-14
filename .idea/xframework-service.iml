@@ -43,6 +43,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-oxm:5.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: taglibs:standard:1.1.2" level="project" />
     <orderEntry type="library" name="Maven: javax.validation:validation-api:2.0.1.Final" level="project" />
     <orderEntry type="library" name="Maven: com.101tec:zkclient:0.10" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
